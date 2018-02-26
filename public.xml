@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_spn_display_rules" id="0x01070060" />
+    <public type="bool" name="adjusting_lte_signal_rsrp_level_as_band_changing" id="0x01120112" />
+    <public type="bool" name="allow_dial_emergency_with_non_emergency_calls" id="0x01120133" />
+    <public type="bool" name="cdma_same_nai" id="0x011200f6" />
+    <public type="bool" name="config_api_setAKey_is_enabled" id="0x011200e0" />
+    <public type="bool" name="config_apn_metered_by_apn_types" id="0x01120127" />
+    <public type="bool" name="config_ca_update" id="0x011200da" />
+    <public type="bool" name="config_carrier_turn_off_wifi_on_ecm" id="0x011200d2" />
+    <public type="bool" name="config_dynamic_mms_user_agent" id="0x01120104" />
+    <public type="bool" name="config_dynamic_mms_user_agent_profile_url" id="0x01120105" />
+    <public type="bool" name="config_f38104_subcriberid_enabled" id="0x011200de" />
+    <public type="bool" name="config_feature_34563_ons_support" id="0x011200c5" />
+    <public type="bool" name="config_hyphenation_feature_enabled" id="0x011200ef" />
+    <public type="bool" name="config_match_special_chars_incalls" id="0x011200f2" />
+    <public type="bool" name="config_meid_device_id_cdma_lte" id="0x011200df" />
+    <public type="bool" name="config_moto_ftr_4953_tmo_wfc_customization" id="0x0112012b" />
+    <public type="bool" name="config_moto_ftr_5013_att_wfc_customization" id="0x0112012c" />
+    <public type="bool" name="config_need_otasp" id="0x011200fa" />
+    <public type="bool" name="config_operator_name_replace_support" id="0x011200f1" />
+    <public type="bool" name="config_spn_on_roamind_off" id="0x01120101" />
+    <public type="bool" name="config_suppress_rat_in_manual_selection" id="0x011200ec" />
+    <public type="bool" name="config_use_nv_band_pref" id="0x01120134" />
+    <public type="bool" name="default_domestic_roaming_data_enabled" id="0x011200d6" />
+    <public type="bool" name="enhancement_gsm_data_roaming_enabled" id="0x011200d5" />
+    <public type="bool" name="ftr39071_disable_clean_data_on_power_off" id="0x01120135" />
+    <public type="bool" name="is_broker_home_mcc_mnc" id="0x011200d3" />
+    <public type="bool" name="mdn_min_for_non_provisioned_csim" id="0x011200f7" />
+    <public type="bool" name="read_gid_from_usim_for_ruim" id="0x011200eb" />
+    <public type="integer" name="eap_preloaded_ssid_retry_count" id="0x010e00d7" />
+    <public type="string" name="config_cbs_operator_name" id="0x0104060d" />
+    <public type="string" name="config_cdma_otaspnumschema" id="0x01040617" />
+    <public type="string" name="config_preferred_time_zone" id="0x0104061c" />
+    <public type="string" name="HD_call_creteria" id="0x0104061a" />
+</resources>
