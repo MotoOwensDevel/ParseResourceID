@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_restart_radio_on_pdp_fail_regular_deactivation">true</bool>
+    <bool name="config_apn_metered_by_apn_types">true</bool>
+    <bool name="config_moto_ftr_5013_att_wfc_customization">true</bool>
+    <bool name="allow_dial_emergency_with_non_emergency_calls">false</bool>
+</resources>

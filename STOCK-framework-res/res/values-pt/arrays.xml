@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Celular</item>
+        <item>Trabalho</item>
+        <item>Fax trabalho</item>
+        <item>Fax casa</item>
+        <item>Pager</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para fazer chamadas e enviar mensagens por Wi-Fi, primeiro peça à sua operadora para configurar esse serviço. Depois ative novamente as chamadas por Wi-Fi nas configurações.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Faça registro na sua operadora</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Chamadas por Wi-Fi %s</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>A posição do dedo deverá variar um pouco a cada vez. Tente novamente, colocando seu dedo em uma posição um pouco diferente.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>dados da rede celular</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Enviar automaticamente quando em cobertura Doméstica</item>
+        <item>Enviar agora</item>
+        <item>Enviar manualmente depois</item>
+    </string-array>
+</resources>

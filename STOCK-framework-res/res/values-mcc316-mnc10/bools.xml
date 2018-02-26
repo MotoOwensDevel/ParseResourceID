@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_device_wfc_ims_available">true</bool>
+    <bool name="config_mms_content_disposition_support">false</bool>
+    <bool name="config_f38104_subcriberid_enabled">true</bool>
+    <bool name="config_api_setAKey_is_enabled">true</bool>
+    <bool name="cdma_same_nai">false</bool>
+    <bool name="mdn_min_for_non_provisioned_csim">true</bool>
+    <bool name="config_need_otasp">false</bool>
+    <bool name="config_spn_on_roamind_off">true</bool>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_sms_decode_gsm_8bit_data">true</bool>
+    <bool name="config_auto_attach_data_on_creation">false</bool>
+    <bool name="config_carrier_turn_off_wifi_on_ecm">true</bool>
+    <bool name="config_meid_device_id_cdma_lte">false</bool>
+    <bool name="adjusting_lte_signal_rsrp_level_as_band_changing">true</bool>
+</resources>

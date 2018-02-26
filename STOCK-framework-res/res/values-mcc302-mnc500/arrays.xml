@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_operatorConsideredNonRoaming">
+        <item>302220</item>
+        <item>302320</item>
+        <item>302360</item>
+        <item>302361</item>
+        <item>302370</item>
+        <item>302380</item>
+        <item>302490</item>
+        <item>302500</item>
+        <item>302610</item>
+        <item>302630</item>
+        <item>302640</item>
+        <item>302651</item>
+        <item>302652</item>
+        <item>302653</item>
+        <item>302654</item>
+        <item>302655</item>
+        <item>302656</item>
+        <item>302657</item>
+        <item>302660</item>
+        <item>302670</item>
+        <item>302680</item>
+        <item>302701</item>
+        <item>302702</item>
+        <item>302703</item>
+        <item>302710</item>
+        <item>302720</item>
+        <item>302760</item>
+    </string-array>
+</resources>

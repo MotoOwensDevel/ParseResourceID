@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_cdma_otaspnumschema">[ŠÉĻÇ,1,80,99 one two]</string>
+    <string name="config_cdma_data_retry_config">[ḿåх_ŕéţŕîéš=îñƒîñîţé,0,0,10000,10000,100000,10000,10000,10000,10000,140000,540000,960000 one two three four five six seven eight nine ten]</string>
+    <string name="config_gsm_data_retry_config">[ðéƒåûļţ_ŕåñðöḿîžåţîöñ=2000,ḿåх_ŕéţŕîéš=îñƒîñîţé,1000,1000,80000,125000,485000,905000 one two three four five six seven eight nine]</string>
+    <string name="config_gsm_2nd_data_retry_config">[ḿåх_ŕéţŕîéš=1,15000 one two three]</string>
+</resources>

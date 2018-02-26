@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_apn_metered_by_apn_types">true</bool>
+</resources>

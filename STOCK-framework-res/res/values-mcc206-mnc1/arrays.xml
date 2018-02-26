@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_sim_operator_override_rules">
+        <item>PNN:IUSACELL;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+        <item>PNN:AT&amp;T;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+        <item>PNN:UNEFON;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+    </string-array>
+</resources>

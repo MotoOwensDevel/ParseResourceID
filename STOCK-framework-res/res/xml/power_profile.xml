@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="none">0</item>
+    <item name="screen.on">98.648</item>
+    <item name="screen.full">193.430</item>
+    <item name="wifi.on">1.075</item>
+    <item name="wifi.active">41.638</item>
+    <item name="wifi.scan">4.446</item>
+    <item name="camera.flashlight">40.478</item>
+    <item name="camera.avg">570.594</item>
+    <item name="gps.on">19.646</item>
+    <item name="radio.active">301.705</item>
+    <item name="radio.scanning">36.905</item>
+    <array name="radio.on">
+        <value>9.474</value>
+        <value>5</value>
+        <value>0.458</value>
+    </array>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+    </array>
+    <array name="cpu.speeds.cluster0">
+        <value>960000</value>
+        <value>1094400</value>
+        <value>1248000</value>
+        <value>1401000</value>
+    </array>
+    <array name="cpu.active.cluster0">
+        <value>119.711</value>
+        <value>199.005</value>
+        <value>318.450</value>
+        <value>299.501</value>
+    </array>
+    <item name="cpu.idle">3.094</item>
+    <item name="cpu.awake">3.648</item>
+    <item name="battery.capacity">5000</item>
+</device>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_sms_decode_gsm_8bit_data">true</bool>
+    <bool name="read_gid_from_usim_for_ruim">true</bool>
+    <bool name="adjusting_lte_signal_rsrp_level_as_band_changing">true</bool>
+</resources>

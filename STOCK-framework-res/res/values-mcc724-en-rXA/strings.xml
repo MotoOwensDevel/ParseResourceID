@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_preferred_time_zone">[-10800000;-7200000 one two three]</string>
+</resources>
