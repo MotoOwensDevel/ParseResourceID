@@ -24,6 +24,7 @@
     <add-resource type="bool" name="default_domestic_roaming_data_enabled" />
     <add-resource type="bool" name="enhancement_gsm_roaming_enabled" />
     <add-resource type="bool" name="is_broker_home_mcc_mnc" />
+    <add-resource type="bool" name="ftr39071_disable_clean_data_on_power_off" />
     <add-resource type="bool" name="mdn_min_for_non_provisioned_csim" />
     <add-resource type="bool" name="read_gid_from_usim_for_ruim" />
     <bool name="adjusting_lte_signal_rsrp_level_as_band_changing">false</bool>
@@ -50,6 +51,7 @@
     <bool name="default_domestic_roaming_data_enabled">false</bool>
     <bool name="enhancement_gsm_roaming_enabled">false</bool>
     <bool name="is_broker_home_mcc_mnc">false</bool>
+    <bool name="ftr39071_disable_clean_data_on_power_off">true</bool>
     <bool name="mdn_min_for_non_provisioned_csim">false</bool>
     <bool name="read_gid_from_usim_for_ruim">false</bool>
 </resources>
